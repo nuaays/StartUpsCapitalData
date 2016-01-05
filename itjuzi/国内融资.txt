@@ -1,0 +1,43 @@
+From: https://www.itjuzi.com/investevents
+To:   https://www.itjuzi.com/investevents?page=1039
+
+
+-------------------------------------------------------------------------------------------------
+<ul class="list-main-eventset">
+<li>
+	<i class="cell round">
+		<span>2015.12.31</span>
+	</i>							
+	<i class="cell pic">
+		<a target="_blank" href="https://www.itjuzi.com/investevents/13855">
+		<span class="incicon"><img src="https://www.itjuzi.com/images/archive/4962.png"></span>
+		</a>
+	</i>
+	<i class="cell maincell">
+		<p class="title">
+			<a target="_blank" href="https://www.itjuzi.com/investevents/13855">
+			<span>本来生活网</span>
+			</a>
+		</p>
+		<p>
+			<span class="tags t-small c-gray-aset">
+			    <a href="https://www.itjuzi.com/investevents?scope=145">电子商务</a>
+			</span>
+			<span class="loca c-gray-aset t-small">
+				<a href="https://www.itjuzi.com/investevents?prov=北京">北京</a>
+			</span>
+		</p>
+	</i>
+	<i class="cell round">
+		<a><span class="tag gray">C轮</span></a>
+	</i>
+	<i class="cell fina">
+		1亿美元								</i>
+	<i class="cell date">
+		<span class="investorset">
+			<a target="_blank" href="https://www.itjuzi.com/investfirm/2311">九阳股份</a><br>
+		</span>
+	</i>
+</li>
+
+-------------------------------------------------------------------------------------------------
